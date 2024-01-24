@@ -1,0 +1,39 @@
+*{
+  padding: 0%;
+  margin : 0%,
+  box-sizing border-box;
+}
+
+.content{
+  height: 100vh;
+  /* background-color: #829ab1; */
+}
+
+/* transactions page  */
+.filters{
+  display : flex;
+  align-items: center;
+  justify-content: space-between;
+  padding : 15px;
+  box-shadow: 0 0 10px gray;
+  /* background-color: #829ab1; */
+}
+
+/* antd icons */
+.switch-icons {
+  border : 1px solid rgba(0, 0, 0, 0.636);
+  border-radius : 15px;
+  padding : 10px 15px;
+}
+
+.anticon svg{
+  font-size : 20px;
+  cursor : pointer;
+}
+
+.active-icon {
+  color : black;
+}
+.inactive-icon {
+  color : gray;
+}
