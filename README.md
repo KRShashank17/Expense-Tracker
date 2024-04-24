@@ -1,3 +1,6 @@
+Expense Tracker App -
+Track spending habits and be in control of spending to achieve your financial goals! 
+
 > Deployed on :
 https://cooperative-tutu-deer.cyclic.app
 
@@ -9,4 +12,14 @@ https://cooperative-tutu-deer.cyclic.app
 
 * Analytic Chart : Category based visual division
 ![image](https://github.com/KRShashank17/Expense-Tracker/assets/108650155/15a03426-2ea5-4e8e-96a1-1a166c2d56c0)
+
+## Technologies
+  ### MERN Stack
+    * MongoDB
+    * Express
+    * ReactJS
+    * NodeJS
+    * Deployed using Cyclic
+    * Ant Design
+    * RESTapi
 
